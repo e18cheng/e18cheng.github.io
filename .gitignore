@@ -1,8 +1,13 @@
 # Jekyll
 _site/
 .jekyll-metadata
+.jekyll-cache/
 
 # Ruby
 .bundle/
 *.gem
 Gemfile.lock
+
+# HTML
+elements.html
+generic.html
